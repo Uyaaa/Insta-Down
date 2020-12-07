@@ -3,6 +3,7 @@ from tqdm import tqdm
 import requests
 import re
 import sys
+#!/bin/bash
 
 #Copyrights 2020
 #Coded By Zhirrr
